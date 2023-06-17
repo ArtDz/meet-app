@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "mongoUri": "mongodb+srv://dzuga:fast-c3-1234@cluster0.fncdavi.mongodb.net/?retryWrites=true&w=majority",
+  "accessSecret": "secret access key from btr",
+  "refreshSecret": "secret refresh key from btr"
+}
